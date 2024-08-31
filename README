@@ -35,7 +35,7 @@
 
 -  Adresinizin kurtarma tümceciklerini (mnemonic) görmek için ise:
 
-```sh
-nano $HOME/nubit-node/mnemonic.txt
+```
+sh nano $HOME/nubit-node/mnemonic.txt
 ```
 
